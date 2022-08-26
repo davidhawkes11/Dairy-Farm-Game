@@ -15,12 +15,12 @@ if not testing:
     showinfo(title="Introduction", message="Dairy Farm Game!\n\n\
         Your goal is to earn money by selling milk\n\
         This paragraph will inform you about milk production in this game.\n\
-        Milk production depends upon age of the cow, \
+        Milk production depends upon age of the cow, \n\
         the young the cow the profitable it will be.\n\
-        Milk of a cow will decrease over time, \
+        Milk of a cow will decrease over time, \n\
         it will be increased if your cow gives birth to a calf.\n\
         You can mate a cow with a bull.\n\
-        There are much chances that your cow will die after 8 years.")
+        There are much chances that your cow will die after 8 years.\n\")
 
 # change these if you are unsatisfied with the economy.
 windowTitle = 'Dairy Farm'
